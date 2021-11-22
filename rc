@@ -1,0 +1,7 @@
+Resource Controller: 
+
+his resource controller means, it will automatically create all the functions inside your controller of basic required things, which is total 7 functions created in this resource controller.
+
+Lets create a resource controller by the following command:
+
+$ php artisan make:controller StudentController --resource
